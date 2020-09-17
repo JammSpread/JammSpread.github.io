@@ -1,0 +1,3 @@
+[submodule "BlankPDF"]
+	path = BlankPDF
+	url = https://github.com/JammSpread/BlankPDF
